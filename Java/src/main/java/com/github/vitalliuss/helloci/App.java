@@ -2,6 +2,7 @@ package com.github.vitalliuss.helloci;
 
 /**
  * Hello CI!
+ * TEST BUILD BY A COMMIT
  *
  */
 public class App 
